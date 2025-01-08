@@ -7,3 +7,6 @@ if len % 2 == 0:
         print("Not Tech Number")
 else: 
     print("Not Tech Number")
+
+
+#hdhvjviehi
